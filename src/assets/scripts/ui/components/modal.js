@@ -11,6 +11,7 @@ export class Modal extends Phaser.GameObjects.Container {
         config.width,
         config.height,
         0x2a2725,
+        1.0
       )
     );
 
